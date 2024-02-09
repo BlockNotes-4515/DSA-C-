@@ -1,4 +1,4 @@
-<center><img src="oops.jpg" width="50%" height="50%"></center>
+<center><img src="oops.jpg" width="60%" height="60%"></center>
 # DSA-C-
 Backup Files/ Programmers life saving support. 
 <center></center>
